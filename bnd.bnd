@@ -1,0 +1,3 @@
+Bundle-Name: liferay-startup-notification-action
+Bundle-SymbolicName: liferay.startup.notification.action
+Bundle-Version: 1.0.0
